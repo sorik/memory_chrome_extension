@@ -1,0 +1,11 @@
+{
+  "name": "Memory Game",
+  "description": "Send sentences to Memory Game.",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["memory.js"],
+	"persistent": true
+  },
+  "manifest_version": 2
+}
